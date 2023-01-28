@@ -735,10 +735,10 @@ contact.html
 
 ### Home Page:
 
-![output](./images/home.jpg)
-![output](./images/products.jpg)
-![output](./images/people.jpg)
-![output](./images/contact.jpg)
+![output](./images/home.png)
+![output](./images/products.png)
+![output](./images/people.pngg)
+![output](./images/contact.png)
 
 ## HTML validator
 ![HTML Validator](./images/vali.png)
