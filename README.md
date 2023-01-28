@@ -732,14 +732,15 @@ contact.html
 
 
 ## OUTPUT:
+![home](https://user-images.githubusercontent.com/119406233/215276694-99fce3d8-6672-4258-832a-0a205c531460.jpeg)
+![product](https://user-images.githubusercontent.com/119406233/215276952-8f3b6ac7-adc1-4ede-b9dc-99f7928ad199.jpeg)
+![contact](https://user-images.githubusercontent.com/119406233/215276837-1033fdd1-a506-4dca-a256-aebaf8439afb.jpeg)
+![people](https://user-images.githubusercontent.com/119406233/215276811-70e5a9a2-a5b8-44b7-a430-055e9c922ea6.jpeg)
 
-![Output](./home.jpg)
-![Output](./products.jpg)
-![Output](./people.jpg)
-![Output](./contact.jpg)
 
 ## HTML Validator:
-![HTML Validator](./vali.jpg)
+![vaali](https://user-images.githubusercontent.com/119406233/215276788-ce2403fc-09bb-402e-9518-115a73899fd9.jpeg)
+
 
 ## Result:
 
