@@ -733,13 +733,13 @@ contact.html
 
 ## OUTPUT:
 
-![Output](./home.jpeg)
-![Output](./products.jpeg)
-![Output](./people.jpeg)
-![Output](./contact.jpeg)
+![Output](./home.jpg)
+![Output](./products.jpg)
+![Output](./people.jpg)
+![Output](./contact.jpg)
 
 ## HTML Validator:
-![HTML Validator](./vali.png)
+![HTML Validator](./vali.jpg)
 
 ## Result:
 
