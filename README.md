@@ -733,15 +733,13 @@ contact.html
 
 ## OUTPUT:
 
-### Home Page:
+![Output](./home.png)
+![Output](./products.png)
+![Output](./people.pngg)
+![Output](./contact.png)
 
-![output](./images/home.png)
-![output](./images/products.png)
-![output](./images/people.pngg)
-![output](./images/contact.png)
-
-## HTML validator
-![HTML Validator](./images/vali.png)
+## HTML Validator:
+![HTML Validator](./vali.png)
 
 ## Result:
 
