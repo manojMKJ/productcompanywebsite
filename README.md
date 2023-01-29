@@ -215,14 +215,14 @@ home.html
                     </div>
                 </header>
                 <div class="title">
-                    <h1>Bakkiya Fancy Universe PVT LTD</h1>
+                    <h1>Bala style Universe PVT LTD</h1>
                 </div><br>
                 <div class="content">
                     <div class="text">
                     <marquee><b>Feel BEAUTY through our Products</b></marquee>
                     <p style="color:purple; font-family:'Tahoma'; font-size:20px;"> This is the Official Website of our Company</p>
                     </div>
-                    <p>Buy our Fancy items and Cosmetics online for Women from <span style="background-color:lime">Bakkiya Fancy Universe PVT LTD</span>
+                    <p>Buy our Fancy items and Cosmetics online for Women from <span style="background-color:lime">Bala style Universe PVT LTD</span>
                          | Buy cosmetics in Whole sale| 7 Days Returns | Trend setting models | And much more</p>
                     <br>
                 <center>
@@ -237,7 +237,7 @@ home.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Bakkiya Lakshmi</footer></div>
+                Copyright &copy;2023 Developed by Bala</footer></div>
             </div>
         </div>
     </body>
@@ -444,7 +444,7 @@ product.html
 
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Bakkiya Lakshmi</footer></div>
+                Copyright &copy;2023 Developed by Bala</footer></div>
             </div>
         </div>
     </body>
@@ -633,28 +633,28 @@ people.html
                     <h4><u>Chairman</u></h4>
                     </div>
                     <div class="ceoph"></div>
-                    <div class="ceo"><p align="center"><b><h2>Bakkiya Lakshmi</h2></b></div>
+                    <div class="ceo"><p align="center"><b><h2>Bala</h2></b></div>
                     <br>
                     <div class="text">
                         <p><b><u>Head executives</u></b></p><br>
                     </div>
                     <div class="manph1"></div>
-                    <div class="man1"><p align="center"><b><h2>Gopika</h2></b></p></div>
+                    <div class="man1"><p align="center"><b><h2>Manoj</h2></b></p></div>
                     <div class="manph2"></div>
-                    <div class="man2"><p><b><h2>Vishnu priys</h2></b></p></div>
+                    <div class="man2"><p><b><h2>Kamalesh</h2></b></p></div>
                     <br>
                     <div class="text"><p><b><u>Managers</u></b></p></div><br>
                     <div class="amph1"></div>
-                    <div class="am1"><p align="center"><b><h2>Kavya</h2></b></p></div>
+                    <div class="am1"><p align="center"><b><h2>Vignesh</h2></b></p></div>
                     <div class="amph2"></div>
-                    <div class="am2"><p align="center"><b><h2>SubaLakshmi</h2></b></p></div>
+                    <div class="am2"><p align="center"><b><h2>Anish</h2></b></p></div>
                     <div class="amph3"></div>
-                    <div class="am3"><p align="center"><b><h2>Sakthi Priya</h2></b></p></div><br>
+                    <div class="am3"><p align="center"><b><h2>Chaitanya</h2></b></p></div><br>
                     <div class="text">Thank you so much for your kind support!<br>Hope our products had made you more B-E-A-UTIFUL!</div>
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Bakkiya Lakshmi</footer></div>
+                Copyright &copy;2023 Developed by Bala</footer></div>
             </div>
         </div>
     </body>
@@ -710,20 +710,20 @@ contact.html
                     </div>
                     <b><h2>Contact Information:</h2></b>
                     <p><b>&emsp;&ensp;Address:</b>
-                        Guduvancherry, Chennai, TamilNadu, India.
+                        Royapettah, Chennai, TamilNadu, India.
                     </p>
                     <ul>
                         <li><b>Landline:</b> 12345678</li>
                         <li><b>Mobile</b>: 9987390220</li>
-                        <li><b>Facebook</b>: fb/Bakkiyafancypvtltd</li>
-                        <li><b>Email Id:</b>Bakkiyafancypvtltd@gmail.com</li>
+                        <li><b>Facebook</b>: fb/Balapvtltd</li>
+                        <li><b>Email Id:</b>Balauma2910pvtltd@gmail.com</li>
                     </ul>
                     <div style="text-align: center;color:violet;font-size:20px;"><b>Use our Products and Beautify Yourself!</b></div>
 
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Bakkiya Lakshmi</footer></div>
+                Copyright &copy;2023 Developed by Bala</footer></div>
             </div>
         </div>
     </body>
@@ -732,14 +732,13 @@ contact.html
 
 
 ## OUTPUT:
-![home](https://user-images.githubusercontent.com/119406233/215276694-99fce3d8-6672-4258-832a-0a205c531460.jpeg)
-![product](https://user-images.githubusercontent.com/119406233/215276952-8f3b6ac7-adc1-4ede-b9dc-99f7928ad199.jpeg)
-![contact](https://user-images.githubusercontent.com/119406233/215276837-1033fdd1-a506-4dca-a256-aebaf8439afb.jpeg)
-![people](https://user-images.githubusercontent.com/119406233/215276811-70e5a9a2-a5b8-44b7-a430-055e9c922ea6.jpeg)
-
+![Output](./out1.png)
+![Output](./out2.png)
+![Output](./out3.png)
+![Output](./out4.png)
 
 ## HTML Validator:
-![vaali](https://user-images.githubusercontent.com/119406233/215276788-ce2403fc-09bb-402e-9518-115a73899fd9.jpeg)
+![Output](./valid.png)
 
 
 ## Result:
